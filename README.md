@@ -1,5 +1,5 @@
 Hi, I’m @ANameILike!
-I'm interested in insects, spiders, and other invertebrates!
+I'm interested in spiders, insects, and other invertebrates (but mostly arachnids)!
 
 <!---
 ANameILike/ANameILike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
